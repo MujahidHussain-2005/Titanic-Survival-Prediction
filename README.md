@@ -27,3 +27,8 @@ The dataset used is the classic **Titanic: Machine Learning from Disaster** from
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/](https://github.com/)MujahidHussain-2005/titanic-survival-prediction.git
+   Launch the Application:
+   
+ 2. **Run the streamlit app:**
+   ```bash
+   streamlit run application.py
