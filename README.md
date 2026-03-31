@@ -25,6 +25,14 @@ This project covers the full data science lifecycle:
 The dataset used is the classic **Titanic: Machine Learning from Disaster** from Kaggle.
 * `train.csv`: Contains the training data with the target variable `Survived`.
 * `test.csv`: Contains the test data for which we predict survival.
+* 
+### 📝 License
+This project is open-source and available under the MIT License.
+
+### 👨‍💻 Author
+Mujahid Hussain
+
+GitHub: @MujahidHussain-2005
 
 ## 📦 Requirements
 
@@ -52,11 +60,3 @@ Health check: http://localhost:8001/health
 streamlit run application.py
 
 Web app will open automatically at: http://localhost:8501
-
-### 📝 License
-This project is open-source and available under the MIT License.
-
-### 👨‍💻 Author
-Mujahid Hussain
-
-GitHub: @MujahidHussain-2005
